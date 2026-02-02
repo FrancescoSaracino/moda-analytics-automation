@@ -1,0 +1,13 @@
+# OneDrive
+~$*
+*.tmp
+
+# File temporanei Excel
+*.xlk
+*.xlsb
+*.xltx
+*.xltm
+
+# File di cache
+.DS_Store
+Thumbs.db
